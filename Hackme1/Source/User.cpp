@@ -1,3 +1,5 @@
+// User.cpp
+
 #include "User.h"
 
 User::User(std::string username, std::string password, std::string biography, int age, int maxRandomUsernameLength, int maxRandomPasswordLength) :
