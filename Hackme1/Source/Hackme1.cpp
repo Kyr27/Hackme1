@@ -1,12 +1,6 @@
 // Hackme1.cpp : This file contains the 'main' function. Program execution begins and ends there.
 //
 
-// Todo:
-// 0. Make this into a self-contained dll that handles user creation and management, then put it in a folder alongside a console and gui versions that use the .dll.
-// 1. Make a console version (this) that uses the dll. Once logged in just print to the console success.
-// 2. Make a GUI version that uses the same dll. Once logged in, the gui should show some info about the person youre logged in as, the bio, birth date, hobbies, etc
-// 3. Ensure C# Frontend can read C++ Code, by making a C# wrapper for it
-
 #include "Generator.h"
 #include "User.h"
 #include "smath.h"
